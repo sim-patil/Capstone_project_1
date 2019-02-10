@@ -32,5 +32,6 @@ CapstoneProject1-InferentialStatistics.ipynb <br>
 CapstoneProject1-MachineLearning.ipynb <br>
 Capstone Project 1_ In-Depth Analysis.pdf <br>
 Capstone Project 1_ Milestone Report.pdf <br>
+Capstone Project 1_ Final Project Report.pdf <br>
 README.md <br>
 
